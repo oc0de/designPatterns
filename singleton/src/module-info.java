@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ehsan
+ *
+ */
+module singleton {
+}
